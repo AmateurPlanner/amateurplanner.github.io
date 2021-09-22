@@ -1,16 +1,16 @@
-<feed>
-    <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-    <link href="https://amateurplanner.github.io/feed.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://amateurplanner.github.io/" rel="alternate" type="text/html"/>
-    <updated>2021-09-22T00:34:54+00:00</updated>
-    <id>https://amateurplanner.github.io/feed.xml</id>
-    <title type="html">Rose City Thoughts</title>
-    <subtitle>
-        Ideas on Improving the Built Environment in Windsor
-    </subtitle>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://yoursite.com/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Rose City Thoughts</title>
+    <link>https://amateurplanner.github.io/</link>
+    <description>Ideas on Improving the Built Environment in Windsor</description>
+    <language>en-us</language>
     <item>
-        <title>Test Post</title>
-        <link>https://amateurplanner.github.io/mobility_and_street_design/car_free_pelissier.md</link>
-        <description>some description</description>
+      <title>test post</title>
+      <pubDate>21 Sep 2021 12:40:21 GMT</pubDate>
+      <link>https://amateurplanner.github.io/mobility_and_street_design/mobility_street_landing.md</link>
+      <description>Information about Web Page 1</description>
     </item>
-</feed>
+  </channel>
+</rss>
